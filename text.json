@@ -1,0 +1,20 @@
+{
+    "apps": [
+        {
+            "beta": false,
+            "bundleIdentifier": "me.oatmealdome.dolphinios-njb",
+            "developerName": "YtFanboiii.exe on TikTok",
+            "downloadURL": "https://siteid1223549.univer.se/_api/sites/1445497/downloads/50484/data",
+            "iconURL": "https://raw.githubusercontent.com/YtFanboiii-exe/MaiMPlace4/main/IMG_1584.JPG",
+            "localizedDescription": "Roblox OOF-a program/game modded to have a copyrighted sound AKA OOF",
+            "name": "RobloxOOF",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/YtFanboiii-exe/MaiMPlace4/main/IMG_1585.PNG",
+                "https://raw.githubusercontent.com/YtFanboiii-exe/MaiMPlace4/main/IMG_1586.PNG", ],
+            "size": 80253902,
+            "subtitle": "Play roblox with the famous OOF sound.",
+            "tintColor": "41cdff",
+            "version": "2.553.620",
+            "versionDate": "2022-09-11T18:00:00-04:00",
+            "versionDescription": "Fixed download error"
+        },
