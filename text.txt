@@ -1,0 +1,27 @@
+{
+  "name": " MaiMPlace (made with Altstore Repo Creator)",
+  "identifier": "org.ytfanboiii.exe.maimplace",
+  "sourceURL": "https://raw.githubusercontent/YtFanboiii-exe/MaiMPlace4/main/text.json",
+  "apps": [
+    {
+      "name": "RoboxOOF",
+      "bundleIdentifier": "com.roblox.robloxmobile",
+      "developerName": "YtFanboiii.exe on TikTok!",
+      "version": "2.553.620",
+      "versionDate": "2022-07-14T12:00:00-05:00",
+      "versionDescription": "Fixed download error",
+      "downloadURL": "https://siteid1223549.univer.se/_api/sites/1445497/downloads/50484/data",
+      "localizedDescription": "Play roblox with the OOF sound without being limited to PC/Mac ",
+      "iconURL": "https:// raw.githubusercontent.com/YtFanboiii-exe/MaiMPlace4/main/IMG_1584.JPG",
+      "tintColor": "424242",
+      "size": 54659,
+      "screenshotURLs": [
+        "https:// raw.githubusercontent.com/YtFanboiii-exe/MaiMPlace4/main/IMG_1585.PNG",
+        "https:// raw.githubusercontent.com/YtFanboiii-exe/MaiMPlace4/main/IMG_1586.PNG",
+      ],
+      "permissions": [
+        {
+          "type": "Personalized-ads",
+          "usageDescription": "Don’t know"
+        }
+      ]
