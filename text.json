@@ -1,36 +1,27 @@
 {
-  "name": "MaimPlace",
+  "name": " MaiMPlace (made with Altstore Repo Creator)",
   "identifier": "org.ytfanboiii.exe.maimplace",
-  "sourceURL": " https://github.com/YtFanboiii-exe/MaiMPlace4/blob/main/text.json”,
+  "sourceURL": "https://raw.githubusercontent/YtFanboiii-exe/MaiMPlace4/main/text.json",
   "apps": [
     {
-      "name": "RobloxOOF",
+      "name": "RoboxOOF",
       "bundleIdentifier": "com.roblox.robloxmobile",
       "developerName": "YtFanboiii.exe on TikTok!",
-      "subtitle": "Roblox with the copyrighted oof sound",
       "version": "2.553.620",
-      "versionDate": "2022-02-18",
+      "versionDate": "2022-07-14T12:00:00-05:00",
       "versionDescription": "Fixed download error",
       "downloadURL": "https://siteid1223549.univer.se/_api/sites/1445497/downloads/50484/data",
-      "localizedDescription": "Play roblox with the OOF sound without being limited to PC/Mac",
-      "iconURL": "https://raw.githubusercontent.com/YtFanboiii-exe/MaiMPlace4/main/IMG_1584.JPG",
+      "localizedDescription": "Play roblox with the OOF sound without being limited to PC/Mac ",
+      "iconURL": "https:// raw.githubusercontent.com/YtFanboiii-exe/MaiMPlace4/main/IMG_1584.JPG",
       "tintColor": "424242",
-      "size": 27200000,
-      "beta": false,
+      "size": 54659,
       "screenshotURLs": [
-        "https://raw.githubusercontent.com/YtFanboiii-exe/MaiMPlace4/main/IMG_1585.PNG",
-        “https://raw.githubusercontent.com/YtFanboiii-exe/MaiMPlace4/main/IMG_1586.PNG",
+        "https:// raw.githubusercontent.com/YtFanboiii-exe/MaiMPlace4/main/IMG_1585.PNG",
+        "https:// raw.githubusercontent.com/YtFanboiii-exe/MaiMPlace4/main/IMG_1586.PNG",
+      ],
+      "permissions": [
+        {
+          "type": "Personalized-ads",
+          "usageDescription": "Don’t know"
+        }
       ]
-    }
-  ],
-  "news": [
-    {
-      "title": "Welcome the reboot of the roblox oof sound with RobloxOOF",
-      "identifier": "RobloxOOF-1.0-available",
-      "caption": "Play roblox like you used to",
-      "tintColor": "424242",
-      "imageURL": "https://raw.githubusercontent.com/YtFanboiii-exe/MaiMPlace4/main/IMG_1584.JPG",
-      "appID": "com.roblox.robloxmobile",
-      "date": "2022-11-27",
-      "notify": true
-    }
